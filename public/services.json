@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable during winter.",
+    "image": "/assets/services/service1.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+    "image": "/assets/services/service2.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Pet Winter Health Checkup",
+    "providerName": "Happy Tails Vet",
+    "providerEmail": "support@happytails.com",
+    "price": 40,
+    "rating": 4.7,
+    "slotsAvailable": 5,
+    "description": "Complete winter health checkup for your pets by expert veterinarians.",
+    "image": "/assets/services/service3.jpg",
+    "category": "Health"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Indoor Pet Training",
+    "providerName": "SmartPaws Academy",
+    "providerEmail": "training@smartpaws.com",
+    "price": 35,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Keep your pets active indoors with fun winter training sessions.",
+    "image": "/assets/services/service4.jpg",
+    "category": "Training"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Luxury Heated Pet Bed",
+    "providerName": "WarmNest Pets",
+    "providerEmail": "contact@warmnest.com",
+    "price": 50,
+    "rating": 5.0,
+    "slotsAvailable": 6,
+    "description": "Premium heated beds designed for maximum winter comfort.",
+    "image": "/assets/services/service5.jpg",
+    "category": "Accessories"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Winter Nutrition Consultation",
+    "providerName": "Healthy Paws Nutrition",
+    "providerEmail": "nutrition@healthypaws.com",
+    "price": 28,
+    "rating": 4.8,
+    "slotsAvailable": 4,
+    "description": "Expert advice on winter nutrition and diet plans for pets.",
+    "image": "/assets/services/service6.jpg",
+    "category": "Nutrition"
+  }
+]
