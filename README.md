@@ -1,16 +1,51 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+WarmPaws 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A modern and responsive winter pet care service website built with React, Firebase Authentication, Tailwind CSS, DaisyUI, Swiper Slider, and AOS animation.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Project Purpose
 
-## Expanding the ESLint configuration
+WarmPaws helps pet owners discover winter care services for their pets including grooming, health checkups, pet clothing, indoor training, and winter nutrition consultation.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The website provides a beautiful winter-themed user experience with authentication and protected routes.
+
+Key Features
+
+- Firebase Authentication
+- Email & Password Login/Register
+- Google Login
+- Protected Routes
+- Forgot Password Functionality
+- Update User Profile
+- Dynamic Service Details Page
+- Winter-Themed Responsive Design
+- Swiper Hero Slider
+- AOS Scroll Animation
+- Toast Notifications
+- JSON Data From Public Folder
+- Responsive Navbar & Footer
+- Mobile Friendly Layout
+
+Technologies Used
+
+- React
+- React Router DOM
+- Firebase
+- Tailwind CSS
+- DaisyUI
+- Swiper JS
+- AOS Animation
+- React Hot Toast
+- React Icons
+
+NPM Packages Used
+
+```bash
+npm install react-router-dom
+npm install firebase
+npm install react-hot-toast
+npm install swiper
+npm install aos
+npm install react-icons
